@@ -1,2 +1,2 @@
-java -jar "target.jar" Xmx-2G xms-1G
+java -jar "target.jar" Xmx-1G xms-1G
 pause
